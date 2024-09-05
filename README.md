@@ -11,8 +11,11 @@ ________________________________________________________________________________
 #HABILIDADES TÉCNICAS
 
 ✔️	Lenguajes de Programación: Python (Básico), SQL (Básico), R (Básico)
+
 ✔️	Herramientas de Análisis: Excel (Intermedio), ORACLE (Básico), Tableau (Básico)
+
 ✔️	Paquetería Ofimática: Word (Intermedio), PowerPoint (Intermedio)
+
 ✔️	Contabilidad y Finanzas: NOI (Básico), COI (Básico), CONTPAQ (Básico)
 
 
