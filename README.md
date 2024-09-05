@@ -6,7 +6,8 @@ Soy Licenciado en Contaduría con más de 10 años de experiencia en contabilida
 
 Me pueden contactar LinkedIn: https://www.linkedin.com/in/guillermo-quiroz-michel-23qm1982/ 
 
-#________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________
+
 #HABILIDADES TÉCNICAS
 
 ✔️	Lenguajes de Programación: Python (Básico), SQL (Básico), R (Básico)
@@ -16,7 +17,8 @@ Me pueden contactar LinkedIn: https://www.linkedin.com/in/guillermo-quiroz-miche
 
 
 
-#________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________
+
 #Los proyectos que desarrolle en TripleTen son:
 
 ✔️	Proyecto de Manipulación de datos (Data Wrangling): Proceso de limpieza y transformación de datos utilizando técnicas avanzadas en Python. Ver proyecto:	https://github.com/QMGuillermo23/Sprints-TripleTen-GQM/blob/main/Proyecto%20de%20Manipulaci%C3%B3n%20de%20datos%20(Data%20Wrangling).ipynb
