@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola mi nombre es Guillermo Quiroz Michel 👋
 
 <!--
 **QMGuillermo23/QMGuillermo23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,10 +9,5 @@ Soy Licenciado en Contaduría con más de 10 años de experiencia en contabilida
 
 Me pueden contactar LinkedIn: https://www.linkedin.com/in/guillermo-quiroz-michel-23qm1982/
 
-🔨 Principales lenguajes y herramientas:
-Estas no son todas las herramientas que utilizo, pero las utilizo todas las semanas; algunas semanas, incluso todos los días. Utilizo estas herramientas para crear productos analíticos y/o para impartir clases.
 
-Git R Pitón Linux Libro en cuarto Positrón VSCódigo Observación Obsidiana Pizarra abierta
-Organizaciones
-es_coders MDS TripleDiez Entel
 
