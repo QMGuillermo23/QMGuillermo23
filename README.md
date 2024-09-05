@@ -6,6 +6,6 @@ Soy Licenciado en Contaduría con más de 10 años de experiencia en contabilida
 
 
 
-# Me pueden contactar LinkedIn: https://www.linkedin.com/in/guillermo-quiroz-michel-23qm1982/ 
+Me pueden contactar LinkedIn: https://www.linkedin.com/in/guillermo-quiroz-michel-23qm1982/ 
 
 
